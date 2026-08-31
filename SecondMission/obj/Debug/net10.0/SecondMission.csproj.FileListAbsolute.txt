@@ -1,0 +1,17 @@
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\bin\Debug\net10.0\SecondMission.exe
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\bin\Debug\net10.0\SecondMission.deps.json
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\bin\Debug\net10.0\SecondMission.runtimeconfig.json
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\bin\Debug\net10.0\SecondMission.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\bin\Debug\net10.0\SecondMission.pdb
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.csproj.AssemblyReference.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.AssemblyInfoInputs.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.AssemblyInfo.cs
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.csproj.CoreCompileInputs.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMi.92884C95.Up2Date
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\refint\SecondMission.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.pdb
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.genruntimeconfig.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\ref\SecondMission.dll

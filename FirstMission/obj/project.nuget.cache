@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2WOlccV3tk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\CSharp Projects\\WebScrapingPractice\\FirstMission\\FirstMission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\htmlagilitypack\\1.13.0\\htmlagilitypack.1.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\bin\Debug\net10.0\FirstMission.exe
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\bin\Debug\net10.0\FirstMission.deps.json
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\bin\Debug\net10.0\FirstMission.runtimeconfig.json
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\bin\Debug\net10.0\FirstMission.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\bin\Debug\net10.0\FirstMission.pdb
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.csproj.AssemblyReference.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.AssemblyInfoInputs.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.AssemblyInfo.cs
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.csproj.CoreCompileInputs.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMis.FDB3C04B.Up2Date
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\refint\FirstMission.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.pdb
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\FirstMission.genruntimeconfig.cache
+C:\Users\USER\CSharp Projects\WebScrapingPractice\FirstMission\obj\Debug\net10.0\ref\FirstMission.dll
