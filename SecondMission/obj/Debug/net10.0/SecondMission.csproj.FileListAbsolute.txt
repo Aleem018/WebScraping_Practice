@@ -15,3 +15,4 @@ C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.
 C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.pdb
 C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.genruntimeconfig.cache
 C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\ref\SecondMission.dll
+C:\Users\USER\CSharp Projects\WebScrapingPractice\SecondMission\obj\Debug\net10.0\SecondMission.sourcelink.json
