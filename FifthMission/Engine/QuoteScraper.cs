@@ -39,8 +39,8 @@ public class QuoteScraper
                     string cleanAuthor = WebUtility.HtmlDecode(author);
 
                     Quote newQuote = new Quote();
-                    newQuote.text = $"\"{cleanText}\"";
-                    newQuote.author = $"\"{cleanAuthor}";
+                    newQuote.Text = $"\"{cleanText}\"";
+                    newQuote.Author = $"\"{cleanAuthor}";
 
                     output.Add(newQuote);
                 }
